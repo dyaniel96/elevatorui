@@ -1,8 +1,8 @@
 # Elevator Touchscreen UI
 
-[Presentation page](https://dyaniel96.github.io/elevatorui/)(https://dyaniel96.github.io/elevatorui/)
+[Presentation page](https://dyaniel96.github.io/elevatorui/)(https://dyaniel96.github.io/elevatorui/)<br/>
 
-[GitHub repository](https://github.com/dyaniel96/elevatorui)(Link:https://github.com/dyaniel96/elevatorui)
+[GitHub repository](https://github.com/dyaniel96/elevatorui)(Link:https://github.com/dyaniel96/elevatorui)<br/>
 ## C
 ### Example
 Flint garage elevator:
@@ -34,7 +34,7 @@ First thing I will do is to re-organize the layout so that the buttons are intui
 ![HW1 Yan](https://user-images.githubusercontent.com/15820167/65186337-10b31280-da2f-11e9-9af8-aa7599a2b049.gif)
 Size: 3 ft x 2 ft
 
-There are 5 buttons for each floor. Close and Open buttons on the bottom. An emergency button on the bottom right.
-More information on the top panel which tells the date, weather, capacity, and current floor.
-There is a speaker which will announce the current floor and the direction it is going.
+There are 5 buttons for each floor. Close and Open buttons on the bottom. An emergency button on the bottom right.<br/>
+More information on the top panel which tells the date, weather, capacity, and current floor.<br/>
+There is a speaker which will announce the current floor and the direction it is going.<br/>
 
