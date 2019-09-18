@@ -1,9 +1,11 @@
 # elevatorui HSI processing project
+[GitHub repository](https://github.com/dyaniel96/elevatorui)(Link:https://github.com/dyaniel96/elevatorui)
 ## C
 ### Example of a bad design
 Photo:
-![park](https://user-images.githubusercontent.com/15820167/64929144-c2600280-d7e7-11e9-9352-1c7954a5613b.jpg)
-This is the elevator from Raider Park. The floor number layout is kinda different. Instead of going staright up and down, it changes the floor number from left to right then up. 
+![elevator0](https://user-images.githubusercontent.com/15820167/65101963-4accd780-d98f-11e9-92a1-6ba55b90d68e.jpg)
+![elevator1](https://user-images.githubusercontent.com/15820167/65102007-6cc65a00-d98f-11e9-8a80-6c4b0b85a6bb.jpg)
+![elevatorresize](https://user-images.githubusercontent.com/15820167/65102116-c169d500-d98f-11e9-9222-538fe4884ed3.gif)
 ### The issue
 It is not intuitive when I was trying to find thrid floor button. In this interface, thrid level button is on the right of the second floor button, which is not pratical.
 
