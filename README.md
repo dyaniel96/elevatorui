@@ -29,6 +29,9 @@ If I were going to the second floor, I might press the thrid floor button by mis
 ### Improvements for UX(User Experience)
 First thing I will do is to re-organize the layout so that the buttons are intuitive to find. Besides, I will also add more features to show extra information on the control panel such as weather condition and elevator capacity. 
 
+![elevator2](https://user-images.githubusercontent.com/15820167/65449834-673e9900-de01-11e9-8691-38db77d608ce.jpg)
+ 
+
 ## A
 ### New Design
 ![HW1 Yan](https://user-images.githubusercontent.com/15820167/65186337-10b31280-da2f-11e9-9af8-aa7599a2b049.gif)
